@@ -1,0 +1,22 @@
+{
+  "name": "oop-team-profile-generator",
+  "version": "1.0.0",
+  "description": "## User Story ``` AS A manager I WANT to generate a webpage that displays my team's basic info SO THAT I have quick access to their emails and GitHub profiles ```  ## Table of Contents - [Description](#description)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jovanigomez/OOP-Team-Profile-Generator.git"
+  },
+  "author": "Jovani Gomez jovani.gomez@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jovanigomez/OOP-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/jovanigomez/OOP-Team-Profile-Generator#readme"
+}
