@@ -33,9 +33,9 @@ Run the command node app,js in your terminal. Read the messages and either selec
 ## Contributors 
 [Jovani Gomez](https://github.com/jovanigomez?tab=repositories)
 ## Testing 
-this application includes four tests that are designed to test the functionality and information validation for the employee class and its three extended classes for Manager, Engineer, Employee and Intern.
+This application includes four tests that are designed to test the functionality and information validation for the employee class and its three extended classes for Manager, Engineer, Employee and Intern.
 You can test this with Jest node dependencies. (by running 'npm i')
 
 ## Questions
 
- * [Email](jovani.gomez@gmail.com)
+ - [Email](jovani.gomez@gmail.com)
