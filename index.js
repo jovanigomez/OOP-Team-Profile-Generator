@@ -38,7 +38,7 @@ function createEmployee() {
     },
   ];
 
-  inquirer.prompt(createEmployee).then((answers) => {
+  inquirer.prompt(employeePrompts).then((answers) => {
     const newEmployee = new Employee(answer.name, answer.id, answer.email);
     teamMember.push(newEmployee);
 
