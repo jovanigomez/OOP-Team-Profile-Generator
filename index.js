@@ -12,7 +12,6 @@ function validateInput(input) {
   } else {
     return true;
   }
-
 }
 
 let teamMember = [];
@@ -48,3 +47,5 @@ function createEmployee() {
 
 
 }
+
+createEmployee()
